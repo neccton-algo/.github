@@ -6,13 +6,14 @@
 
 ### How to add a repository?
 Requirements to add a repository to the organization https://github.com/neccton-algo:
-- Be a member of the NECCTON project
-- Fullfill the requirements indicate [here](#content-of-a-repository).
+- Be a member of the [NECCTON](https://www.neccton.eu/) project
+- Put the mandatory files in the respository as described [here](#content-of-a-repository).
 - Follow the [recommendations](#recommendations) as much as possible
-- complete the table here (the owner is the main contact for the code):
+- complete the table here (the owner is the main contact for the code, ple):
 
-| Repository name | Owner | NECCTON task | short description |
-|       ---       |  ---  |     ---      |    ---            |  
+| Repository name                                       | Owner                                             | NECCTON task | short description |
+|       :---:                                           |  :---:                                            |     ---:     |    :---            |
+|    [.github](https://github.com/neccton-algo)         | [@brajard](https://www.github.com/brajard)        | 4.1          | description of the github organization |
 
 ### Content of a repository
 
