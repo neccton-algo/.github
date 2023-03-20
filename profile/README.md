@@ -1,6 +1,7 @@
 # Description and guideline on the NECCTON-algo organization
 ![neccton picture](https://github.com/neccton-algo/.github/blob/main/1500x500.jpeg)
-## What is the NECCTON-algo organization
+## What is the NECCTON-algo organization?
+The NECCTON-algo organization hosts the algorithms developed in the framework of the NECCTON project.
 
 ## Guideline for a repository in the organization
 
@@ -38,6 +39,7 @@ In addition to the points mentionned above, it is strongly suggested to:
 - Make use of GitHub actions to run unit tests when pushing the code on the repository (or when merging with the `master` branch). See [here](https://docs.github.com/en/actions) for a documentation of GitHub actions.
 - Use language specific tools (e.g. conda, pipenv) to define the running environment.
 - Use the latest best coding practices.
+- Upload on the organization code that are specific to the NECCTON project. Other generic tools can be hosted elsewhere.
 
 <!--
 
