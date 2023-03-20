@@ -16,8 +16,17 @@ Requirements to add a repository to the organization https://github.com/neccton-
 |    [.github](https://github.com/neccton-algo)         | [@brajard](https://www.github.com/brajard)        | 4.1          | description of the github organization |
 
 
-[^1]:indicate here the github login of the person responsible for the code.
+[^1]:indicate here the github login of the main contact for the code.
+
 ### Content of a repository
+A github repository contains the following file:
+- A `LICENCE` file: NECCTON encourages the use of open source codes.
+- A `CODEOWNERS`file: indicate the main contacts for the repository. See [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) for more details.
+- A `README` file: see the minimum requirement for the README file [here](#readme)
+- One or several jupyter notebook to demonstrate the algorithm and the baseline.
+
+#### README
+
 
 ### Recommendations
 
