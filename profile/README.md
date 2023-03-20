@@ -9,12 +9,14 @@ Requirements to add a repository to the organization https://github.com/neccton-
 - Be a member of the [NECCTON](https://www.neccton.eu/) project
 - Put the mandatory files in the respository as described [here](#content-of-a-repository).
 - Follow the [recommendations](#recommendations) as much as possible
-- complete the table here (the owner is the main contact for the code, ple):
+- complete the table here :
 
-| Repository name                                       | Owner                                             | NECCTON task | short description |
+| Repository name                                       | Owner[^1]                                             | NECCTON task | short description |
 |       :---:                                           |  :---:                                            |     ---:     |    :---            |
 |    [.github](https://github.com/neccton-algo)         | [@brajard](https://www.github.com/brajard)        | 4.1          | description of the github organization |
 
+
+[^1]:indicate here the github login of the person responsible for the code.
 ### Content of a repository
 
 ### Recommendations
