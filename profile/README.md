@@ -26,9 +26,18 @@ A github repository contains the following file:
 - One or several jupyter notebook to demonstrate the algorithm and the baseline.
 
 #### README
-
+The README file must contain a description for :
+- the data source
+- the baseline (or a link to the jupyter notebook of the baseline)
+- the metrics used to validate the output(s) of the algorithm
+- the dependencies needed to use the code, or use language specific tools (recommended)
 
 ### Recommendations
+In addition to the points mentionned above, it is strongly suggested to:
+- Having a data API to have a easy access to the data when testing the code
+- Make use of GitHub actions to run unit tests when pushing the code on the repository (or when merging with the `master` branch). See [here](https://docs.github.com/en/actions) for a documentation of GitHub actions.
+- Use language specific tools (e.g. conda, pipenv) to define the running environment.
+- Use the latest best coding practices.
 
 <!--
 
