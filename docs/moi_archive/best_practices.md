@@ -1,17 +1,5 @@
----
-title: Good Enough Practices in Scientific Software Development
-description: 
-published: true
-date: 2022-10-14T10:13:14.602Z
-tags: 
-editor: markdown
-dateCreated: 2022-06-29T14:17:40.117Z
----
-
-<div align="center">
-<img width="70%" src="/assets/yagni.png" >
-  <figcaption><b>You Are Not Going To Need It (YAGNI)</b></figcaption>
-</div>
+# Best practices
+The document is adpated from a [Mercator](https://www.mercator-ocean.eu/en/) document (thanks Renaud)
 
 ## Coding
 
@@ -48,8 +36,3 @@ dateCreated: 2022-06-29T14:17:40.117Z
 - Use packaging when available (conda, pip)
 - Use Quality Analysis tools (linters, test coverage, static code analysis) to identify duplication, vulnerability, potential bugs, etc
 
-</p>
-</p>
-<div align="center">
-<img width="50%" src="/assets/bug_fixing_ways.jpg">
-</div>
