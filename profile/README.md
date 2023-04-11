@@ -10,7 +10,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 - Be a member of the [NECCTON](https://www.neccton.eu/) project
 - Put the mandatory files in the respository as described [here](#content-of-a-repository).
 - Follow the [recommendations](#recommendations) as much as possible
-- complete the table here :
+- Complete the table here :
 
 | Repository name                                       | Owner[^1]                                             | NECCTON task | short description |
 |       :---:                                           |  :---:                                            |     ---:     |    :---            |
@@ -20,25 +20,27 @@ Requirements to add a repository to the organization https://github.com/neccton-
 [^1]:indicate here the github login of the main contact for the code.
 
 ### Content of a repository
-A github repository contains the following file:
-- A `LICENCE` file: NECCTON encourages the use of open source codes.
+A GitHub repository of the NECCTON GitHub organization contains the following file:
+
+- A `LICENCE` file: NECCTON encourages the use of open-source licences.
 - A `CODEOWNERS`file: indicate the main contacts for the repository. See [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) for more details.
 - A `README` file: see the minimum requirement for the README file [here](#readme)
-- One or several jupyter notebook to demonstrate the algorithm and the baseline.
+- •	One or several Jupyter notebooks to demonstrate the algorithm and the baseline. The baseline corresponds to an existing algorithm or a minimal solution (e.g. linear) that the algorithm is expected to outperform. 
 
 #### README
-The README file must contain a description for :
+The README file must contain a description for:
 - the data source
 - the baseline (or a link to the jupyter notebook of the baseline)
 - the metrics used to validate the output(s) of the algorithm
-- the dependencies needed to use the code, or use language specific tools (recommended)
+- the list of dependencies (name of the dependency and full version number used) needed to use the code, and use language-specific tools to install the dependencies (recommended)
+- the documentation (e.g., via a link). It should allow a potential user to understand the code and reuse it. The documentation will be available at the M36 of the NECCTON project.
 
 ### Recommendations
 In addition to the points mentionned above, it is strongly suggested to:
-- Having a data API to have a easy access to the data when testing the code
-- Make use of GitHub actions to run unit tests when pushing the code on the repository (or when merging with the `master` branch). See [here](https://docs.github.com/en/actions) for a documentation of GitHub actions.
+- Using a data API to have a easy access to the data when testing the code
+- Make use of GitHub actions to run unit tests when pushing the code on the repository (or when merging with the `main` branch). See [here](https://docs.github.com/en/actions) for a documentation of GitHub actions.
 - Use language specific tools (e.g. conda, pipenv) to define the running environment.
-- Use the latest best coding practices.
+- Use the latest best coding practices. For more details, see [here](https://github.com/neccton-algo/.github/blob/main/docs/moi_archive/best_practices.md)
 - Upload on the organization code that are specific to the NECCTON project. Other generic tools can be hosted elsewhere.
 
 <!--
