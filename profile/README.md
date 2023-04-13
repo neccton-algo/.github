@@ -25,7 +25,7 @@ A GitHub repository of the NECCTON GitHub organization contains the following fi
 - A `LICENCE` file: NECCTON encourages the use of open-source licences.
 - A `CODEOWNERS`file: indicate the main contacts for the repository. See [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) for more details.
 - A `README` file: see the minimum requirement for the README file [here](#readme)
-- •	One or several Jupyter notebooks to demonstrate the algorithm and the baseline. The baseline corresponds to an existing algorithm or a minimal solution (e.g. linear) that the algorithm is expected to outperform. 
+- One or several Jupyter notebooks to demonstrate the algorithm and the baseline. The baseline corresponds to an existing algorithm or a minimal solution (e.g. linear regression) that the algorithm is expected to outperform. 
 
 #### README
 The README file must contain a description for:
@@ -34,14 +34,15 @@ The README file must contain a description for:
 - the metrics used to validate the output(s) of the algorithm
 - the list of dependencies (name of the dependency and full version number used) needed to use the code, and use language-specific tools to install the dependencies (recommended)
 - the documentation (e.g., via a link). It should allow a potential user to understand the code and reuse it. The documentation will be available at the M36 of the NECCTON project.
+- Citations and links for NECCTON publications using or introducing the code, when applicable.
 
 ### Recommendations
 In addition to the points mentionned above, it is strongly suggested to:
-- Using a data API to have a easy access to the data when testing the code
+- Use a data API for easy access to the data when testing the code
 - Make use of GitHub actions to run unit tests when pushing the code on the repository (or when merging with the `main` branch). See [here](https://docs.github.com/en/actions) for a documentation of GitHub actions.
 - Use language specific tools (e.g. conda, pipenv) to define the running environment.
 - Use the latest best coding practices. For more details, see [here](https://github.com/neccton-algo/.github/blob/main/docs/moi_archive/best_practices.md)
-- Upload on the organization code that are specific to the NECCTON project. Other generic tools can be hosted elsewhere.
+- Upload code to the organization code that is specific to the NECCTON project. Other generic tools can be hosted elsewhere.
 
 <!--
 
