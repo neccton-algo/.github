@@ -16,6 +16,9 @@ Requirements to add a repository to the organization https://github.com/neccton-
 |       :---:                                           |  :---:                                            |     ---:     |    :---            |
 |    [.github](https://github.com/neccton-algo)         | [@brajard](https://www.github.com/brajard)        | 4.1          | description of the github organization |
 |    [.github](https://github.com/neccton-algo/Neccton_Super_Resolution)         | [@AntoineBernigaud](https://www.github.com/AntoineBernigaud)        | 4.4.3       | Super Resolution Data Assimilation |
+|    [DINCAE-benthic-traits](https://github.com/neccton-algo/DINCAE-benthic-traits)         | [@Alexander-Barth](https://www.github.com/Alexander-Barth),[@AbelDechN](https://github.com/AbelDechN)        |   4.2.2 Interpolation          | data products of benthic traits  |
+
+
 
 [^1]:indicate here the github login of the main contact for the code.
 
