@@ -15,6 +15,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | Repository name                                       | Owner[^1]                                             | NECCTON task | short description |
 |       :---:                                           |  :---:                                            |     ---:     |    :---            |
 |    [.github](https://github.com/neccton-algo)         | [@brajard](https://www.github.com/brajard)        | 4.1          | description of the github organization |
+|    [.github](https://github.com/neccton-algo/Neccton_Super_Resolution)         | [@AntoineBernigaud](https://www.github.com/AntoineBernigaud)        | 4.4.3       | Super Resolution Data Assimilation |
 
 [^1]:indicate here the github login of the main contact for the code.
 
