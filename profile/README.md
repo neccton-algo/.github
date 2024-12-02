@@ -18,7 +18,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 |    [Neccton_Super_Resolution](https://github.com/neccton-algo/Neccton_Super_Resolution)         | | [@AntoineBernigaud](https://www.github.com/AntoineBernigaud)        | 4.4.3       | Super Resolution Data Assimilation |
 |    [DINCAE-benthic-traits](https://github.com/neccton-algo/DINCAE-benthic-traits)         | | [@Alexander-Barth](https://www.github.com/Alexander-Barth),[@AbelDechN](https://github.com/AbelDechN)        |   4.2.2 Interpolation          | data products of benthic traits  |
 |    [NECCTON_PNMI](https://github.com/neccton-algo/NECCTON_PNMI)         | | [@dlaetitia](https://github.com/dlaetitia)        |   4.3.1          | Spatial distribution of zooplankton diversity in the Parc Naturel Marin Iroise (PNMI) |
-|    [BFMFORFABM](https://github.com/inogs/bfmforfabm.git} ||[@plazzari](https://github.com/plazzari) | 5.2.3 and 5.2.4 | POC and bio-optic module used within BFM|
+|    [BFMFORFABM](https://github.com/inogs/bfmforfabm.git) ||[@plazzari](https://github.com/plazzari) | 5.2.3 and 5.2.4 | POC and bio-optic module used within BFM|
 | [plasticparcels](https://github.com/OceanParcels/plasticparcels) | | [@michaeldenes](https://github.com/michaeldenes) | 8.3 | Microplastic transport and dispersion simulation tool based on the `parcels` Lagrangian framework |
 
 
