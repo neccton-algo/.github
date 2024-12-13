@@ -24,6 +24,9 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [dvm](https://github.com/pmlmodelling/ersem-neccton/tree/dvm) | [@r-millington](https://www.github.com/r-millington) | 5.2.1 | DVM Model in ERSEM |
 | [ECOSMO](https://github.com/nansencenter/ECOSMO) | | [@caglartac](https://github.com/caglartac) | 4.3.1 and 5.2.1 | main ECOSMO and diel vertical migration codes |
 | [SPMmodule](https://github.com/giubonino/SPMmodule) | | [@giubonino](https://github.com/giubonino) | 5.2.2 | SPM module |
+| [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [DOC](https://github.com/pmlmodelling/ersem-neccton/tree/DOC) | [@hpowley](https://www.github.com/hpowley) | 5.2.3 | NECCTON DOC changes in ERSEM |
+| [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [CDOM](https://github.com/pmlmodelling/ersem-neccton/tree/CDOM) | [@hpowley](https://www.github.com/hpowley) | 5.2.4 | CDOM additions for bio-optical model in ERSEM |
+| [fabm-spectral](https://github.com/pmlmodelling//fabm-spectral) | [rrs](https://github.com/pmlmodelling/fabm-spectral/tree/rrs) | [@hpowley](https://www.github.com/hpowley) | 5.2.4 | Bio-optical model used with ERSEM|
 
 
 [^1]:indicate here the github login of the main contact for the code.
