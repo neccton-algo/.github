@@ -28,7 +28,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [CDOM](https://github.com/pmlmodelling/ersem-neccton/tree/CDOM) | [@hpowley](https://www.github.com/hpowley) | 5.2.4 | CDOM additions for bio-optical model in ERSEM |
 | [fabm-spectral](https://github.com/pmlmodelling//fabm-spectral) | [rrs](https://github.com/pmlmodelling/fabm-spectral/tree/rrs) | [@hpowley](https://www.github.com/hpowley) | 5.2.4 | Bio-optical model used with ERSEM|
 | [bamhbi-rt](https://github.com/loic-mace/bamhbi-rt) | | [@loic-mace](https://github.com/loic-mace) | 5.2.4 | Bio-optics module for BAMHBI|
-
+| [ERGOM-NECCTON](https://gitlab.opencode.de/bsh/neccton) | | Anja Lindenthal | 5.2.1, 5.2.3 and 5.2.4 | ERGOM-FABM code with DVM and bio-optical modules |
 
 [^1]:indicate here the github login of the main contact for the code.
 
