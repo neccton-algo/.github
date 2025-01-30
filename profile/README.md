@@ -19,7 +19,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 |    [DINCAE-benthic-traits](https://github.com/neccton-algo/DINCAE-benthic-traits)         | | [@Alexander-Barth](https://www.github.com/Alexander-Barth),[@AbelDechN](https://github.com/AbelDechN)        |   4.2.2 Interpolation          | data products of benthic traits  |
 |    [NECCTON_PNMI](https://github.com/neccton-algo/NECCTON_PNMI)         | | [@dlaetitia](https://github.com/dlaetitia)        |   4.3.1          | Spatial distribution of zooplankton diversity in the Parc Naturel Marin Iroise (PNMI) |
 |    [BFMFORFABM](https://github.com/inogs/bfmforfabm.git) ||[@plazzari](https://github.com/plazzari) | 5.2.3 and 5.2.4 | POC and bio-optic module used within BFM|
-| [plasticparcels](https://github.com/OceanParcels/plasticparcels) | | [@michaeldenes](https://github.com/michaeldenes) | 8.3 | Microplastic transport and dispersion simulation tool based on the `parcels` Lagrangian framework |
+| [plasticparcels](https://github.com/OceanParcels/plasticparcels) | | [@michaeldenes](https://github.com/michaeldenes) | 8.2.1 | Microplastic transport and dispersion simulation tool based on the `parcels` Lagrangian framework |
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [spm](https://github.com/pmlmodelling/ersem-neccton/tree/spm) | [@jimc101](https://www.github.com/jimc101) | 5.2.2 | SPM Model in ERSEM |
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [dvm](https://github.com/pmlmodelling/ersem-neccton/tree/dvm) | [@r-millington](https://www.github.com/r-millington) | 5.2.1 | DVM Model in ERSEM |
 | [ECOSMO](https://github.com/nansencenter/ECOSMO) | | [@caglartac](https://github.com/caglartac) | 4.3.1 and 5.2.1 | main ECOSMO and diel vertical migration codes |
@@ -30,7 +30,9 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [bamhbi-rt](https://github.com/loic-mace/bamhbi-rt) | | [@loic-mace](https://github.com/loic-mace) | 5.2.4 | Bio-optics module for BAMHBI|
 | [ERGOM-NECCTON](https://gitlab.opencode.de/bsh/neccton) | | Anja Lindenthal | 5.2.1, 5.2.3 and 5.2.4 | ERGOM-FABM code with DVM and bio-optical modules |
 | [SEAPODYM-1D-IET](https://github.com/neccton-algo/SEAPODYM-1D-IET) | | [@cls-team](https://github.com/neccton-algo/SEAPODYM-1D-IET/commits?author=cls-team) | 3.2 and 5.2.1 | 1D version of SEAPODYM-LMTL Intermediate Energy Transfert (IET) |
-| [Plastic_Poseidon](https://github.com/tamvas3712/Plastic_Poseidon) | | [@tamvas3712](https://github.com/tamvas3712) | 8.3.2 | Marine plastic pollution module  |
+| [Plastic_Poseidon](https://github.com/tamvas3712/Plastic_Poseidon) | | [@tamvas3712](https://github.com/tamvas3712) | 8.2.2 | Marine plastic pollution module  |
+| [Bfiat](https://github.com/EMODnet/Bfiat) | | [@karlines](https://github.com/karlines) | 8.2.6 | Bottom Fishing Impact Assessment Tools  |
+
 
 [^1]:indicate here the github login of the main contact for the code.
 
