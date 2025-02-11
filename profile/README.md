@@ -29,8 +29,10 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [fabm-spectral](https://github.com/pmlmodelling//fabm-spectral) | [rrs](https://github.com/pmlmodelling/fabm-spectral/tree/rrs) | [@hpowley](https://www.github.com/hpowley) | 5.2.4 | Bio-optical model used with ERSEM|
 | [bamhbi-rt](https://github.com/loic-mace/bamhbi-rt) | | [@loic-mace](https://github.com/loic-mace) | 5.2.4 | Bio-optics module for BAMHBI|
 | [ERGOM-NECCTON](https://gitlab.opencode.de/bsh/neccton) | | Anja Lindenthal | 5.2.1, 5.2.3 and 5.2.4 | ERGOM-FABM code with DVM and bio-optical modules |
+| [ECOSMO-MERCY](https://github.com/jbieser/POPCYCLE)) | | [@jbieser](https://github.com/jbieser) | 5.2.5 | Marine POP Cycling module  |
 | [SEAPODYM-1D-IET](https://github.com/neccton-algo/SEAPODYM-1D-IET) | | [@cls-team](https://github.com/neccton-algo/SEAPODYM-1D-IET/commits?author=cls-team) | 3.2 and 5.2.1 | 1D version of SEAPODYM-LMTL Intermediate Energy Transfert (IET) |
 | [Plastic_Poseidon](https://github.com/tamvas3712/Plastic_Poseidon) | | [@tamvas3712](https://github.com/tamvas3712) | 8.2.2 | Marine plastic pollution module  |
+| [ECOSMO-MERCY](https://github.com/jbieser/HAMSOM-ECOSMO-MERCY)) | | [@jbieser](https://github.com/jbieser) | 8.2.5 | Marine Mercury Cycling and Bioaccumulation module  |
 | [Bfiat](https://github.com/EMODnet/Bfiat) | | [@karlines](https://github.com/karlines) | 8.2.6 | Bottom Fishing Impact Assessment Tools  |
 
 
