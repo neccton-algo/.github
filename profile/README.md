@@ -39,6 +39,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [FABM](https://github.com/fabm-model/fabm) | | [@jornbr](https://github.com/jornbr) | 3.* | Framework for Aquatic Biogeochemical Models (FABM) |
 | [BAMHBI for FABM](https://github.com/Ezhen/Bamhbi_submodules) | | [@Ezhen](https://github.com/Ezhen) | 3.2 | FABM implementation of BAMHBI |
 | [PISCES for FABM](https://github.com/MoBelharet/fabm-pisces-4.2) | | [@MoBelharet](https://github.com/MoBelharet) | 3.2 | FABM implementation of PISCES |
+| [OGSTM](https://github.com/inogs/ogstm/tree/neccton_WP8)-[BFM-Hg](https://github.com/BFM-Community/BiogeochemicalFluxModel/tree/neccton_WP8) | neccton_WP8|[@ginRosati](https://github.com/ginRosati)|8.2| Marine biogeochemical mercury model|
 
 
 [^1]:indicate here the github login of the main contact for the code.
