@@ -42,6 +42,8 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [PISCES for FABM](https://github.com/MoBelharet/fabm-pisces-4.2) | | [@MoBelharet](https://github.com/MoBelharet) | 3.2 | FABM implementation of PISCES |
 | [OGSTM](https://github.com/inogs/ogstm/tree/neccton_WP8)-[BFM-Hg](https://github.com/BFM-Community/BiogeochemicalFluxModel/tree/neccton_WP8) | neccton_WP8|[@ginRosati](https://github.com/ginRosati)|8.2| Marine biogeochemical mercury model|
 | [FEISTY](https://github.com/Kenhasteandersen/FEISTY) | | [@KenHasteAndersen](https://github.com/Kenhasteandersen) | 7.3 | Fortran and R implementation of the FEISTY fish community model |
+| [DIIM](https://github.com/carlossoto362/diim) | | [@CarlosSoto](https://github.com/carlossoto362) | 4.4.2 | Python tool for the estimation of marine optical constituents from Remote Sensing Reflectance |
+
 
 
 [^1]:indicate here the github login of the main contact for the code.
