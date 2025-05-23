@@ -12,39 +12,42 @@ Requirements to add a repository to the organization https://github.com/neccton-
 - Follow the [recommendations](#recommendations) as much as possible
 - Complete the table here :
 
+
 | Repository name                                       | Branch (default: main) | Owner[^1]                                             | NECCTON task | short description |
 |       :---:                                           |  :---: | :---:                                            |     ---:     |    :---            |
+| ***Work Package 3***|
+| [FABM](https://github.com/fabm-model/fabm) | | [@jornbr](https://github.com/jornbr) | 3.* | Framework for Aquatic Biogeochemical Models (FABM) |
+| [ERGOM-NECCTON](https://gitlab.opencode.de/bsh/neccton) | | Anja Lindenthal | 3.2, 5.2.1, 5.2.3 and 5.2.4 | ERGOM-FABM code with DVM and bio-optical modules |
+| [BAMHBI for FABM](https://github.com/Ezhen/Bamhbi_submodules) | | [@Ezhen](https://github.com/Ezhen) | 3.2 | FABM implementation of BAMHBI |
+| [SEAPODYM-1D-IET](https://github.com/neccton-algo/SEAPODYM-1D-IET) | | [@cls-team](https://github.com/neccton-algo/SEAPODYM-1D-IET/commits?author=cls-team) | 3.2 and 5.2.1 | 1D version of SEAPODYM-LMTL Intermediate Energy Transfert (IET) |
+| [PISCES for FABM](https://github.com/MoBelharet/fabm-pisces-4.2) | | [@MoBelharet](https://github.com/MoBelharet) | 3.2 | FABM implementation of PISCES |
+| ***Work Package 4***|
 |    [.github](https://github.com/neccton-algo)         | | [@brajard](https://www.github.com/brajard)        | 4.1          | description of the github organization |
-|    [Neccton_Super_Resolution](https://github.com/neccton-algo/Neccton_Super_Resolution)         | | [@AntoineBernigaud](https://www.github.com/AntoineBernigaud)        | 4.4.3       | Super Resolution Data Assimilation |
 |    [DINCAE-benthic-traits](https://github.com/neccton-algo/DINCAE-benthic-traits)         | | [@Alexander-Barth](https://www.github.com/Alexander-Barth),[@AbelDechN](https://github.com/AbelDechN)        |   4.2.2 Interpolation          | data products of benthic traits  |
 |    [PNMI data paper](https://github.com/neccton-algo/PNMI_data_paper)         | | [@dlaetitia](https://github.com/dlaetitia)        |   4.3.1          | Spatial distribution of zooplankton diversity in the Parc Naturel Marin Iroise (PNMI) |
-|    [BFMFORFABM](https://github.com/inogs/bfmforfabm.git) ||[@plazzari](https://github.com/plazzari) | 5.2.3 and 5.2.4 | POC and bio-optic module used within BFM|
-| [plasticparcels](https://github.com/OceanParcels/plasticparcels) | | [@michaeldenes](https://github.com/michaeldenes) | 8.2.1 | Microplastic transport and dispersion simulation tool based on the `parcels` Lagrangian framework |
-| [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [spm](https://github.com/pmlmodelling/ersem-neccton/tree/spm) | [@jimc101](https://www.github.com/jimc101) | 5.2.2 | SPM Model in ERSEM |
-| [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [dvm](https://github.com/pmlmodelling/ersem-neccton/tree/dvm) | [@r-millington](https://www.github.com/r-millington) | 5.2.1 | DVM Model in ERSEM |
 | [ECOSMO](https://github.com/nansencenter/ECOSMO) | | [@caglartac](https://github.com/caglartac) | 4.3.1 and 5.2.1 | main ECOSMO and diel vertical migration codes |
+| [DIIM](https://github.com/carlossoto362/diim) | | [@CarlosSoto](https://github.com/carlossoto362) | 4.4.2 | Python tool for the estimation of marine optical constituents from Remote Sensing Reflectance |
+|    [Neccton_Super_Resolution](https://github.com/neccton-algo/Neccton_Super_Resolution)         | | [@AntoineBernigaud](https://www.github.com/AntoineBernigaud)        | 4.4.3       | Super Resolution Data Assimilation |
+| ***Work Package 5***|
+| [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [dvm](https://github.com/pmlmodelling/ersem-neccton/tree/dvm) | [@r-millington](https://www.github.com/r-millington) | 5.2.1 | DVM Model in ERSEM |
+| [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [spm](https://github.com/pmlmodelling/ersem-neccton/tree/spm) | [@jimc101](https://www.github.com/jimc101) | 5.2.2 | SPM Model in ERSEM |
 | [SPMmodule](https://github.com/giubonino/SPMmodule) | | [@giubonino](https://github.com/giubonino) | 5.2.2 | SPM module |
+| [bamhbi-spm](https://github.com/mchoblet/SPM_wave_resuspension) | | [@mchoblet](https://github.com/mchoblet) | 5.2.2 | Bamhbi benthic model (Organic SPM) | 
+|    [BFMFORFABM](https://github.com/inogs/bfmforfabm.git) ||[@plazzari](https://github.com/plazzari) | 5.2.3 and 5.2.4 | POC and bio-optic module used within BFM|
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [DOC](https://github.com/pmlmodelling/ersem-neccton/tree/DOC) | [@hpowley](https://www.github.com/hpowley) | 5.2.3 | NECCTON DOC changes in ERSEM |
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [CDOM](https://github.com/pmlmodelling/ersem-neccton/tree/CDOM) | [@hpowley](https://www.github.com/hpowley) | 5.2.4 | CDOM additions for bio-optical model in ERSEM |
 | [fabm-spectral](https://github.com/pmlmodelling//fabm-spectral) | [rrs](https://github.com/pmlmodelling/fabm-spectral/tree/rrs) | [@hpowley](https://www.github.com/hpowley) | 5.2.4 | Bio-optical model used with ERSEM|
 | [bamhbi-rt](https://github.com/loic-mace/bamhbi-rt) | | [@loic-mace](https://github.com/loic-mace) | 5.2.4 | Bio-optics module for BAMHBI|
-| [bamhbi-spm](https://github.com/mchoblet/SPM_wave_resuspension) | | [@mchoblet](https://github.com/mchoblet) | 5.2.2 | Bamhbi benthic model (Organic SPM) | 
-| [ERGOM-NECCTON](https://gitlab.opencode.de/bsh/neccton) | | Anja Lindenthal | 3.2, 5.2.1, 5.2.3 and 5.2.4 | ERGOM-FABM code with DVM and bio-optical modules |
 | [ECOSMO-MERCY](https://github.com/jbieser/POPCYCLE)) | | [@jbieser](https://github.com/jbieser) | 5.2.5 | Marine POP Cycling module  |
-| [SEAPODYM-1D-IET](https://github.com/neccton-algo/SEAPODYM-1D-IET) | | [@cls-team](https://github.com/neccton-algo/SEAPODYM-1D-IET/commits?author=cls-team) | 3.2 and 5.2.1 | 1D version of SEAPODYM-LMTL Intermediate Energy Transfert (IET) |
+| ***Work Package 7&8***|
+| [FEISTY](https://github.com/Kenhasteandersen/FEISTY) | | [@KenHasteAndersen](https://github.com/Kenhasteandersen) | 7.3 | Fortran and R implementation of the FEISTY fish community model |
+| [OGSTM](https://github.com/inogs/ogstm/tree/neccton_WP8)-[BFM-Hg](https://github.com/BFM-Community/BiogeochemicalFluxModel/tree/neccton_WP8) | neccton_WP8|[@ginRosati](https://github.com/ginRosati)|8.2| Marine biogeochemical mercury model|
+| [plasticparcels](https://github.com/OceanParcels/plasticparcels) | | [@michaeldenes](https://github.com/michaeldenes) | 8.2.1 | Microplastic transport and dispersion simulation tool based on the `parcels` Lagrangian framework |
 | [Plastic_Poseidon](https://github.com/tamvas3712/Plastic_Poseidon) | | [@tamvas3712](https://github.com/tamvas3712) | 8.2.2 | Marine plastic pollution module  |
 | [MEDSLIK_II_NECCTON](https://github.com/Sliubartseva/MEDSLIK_II_NECCTON) | | [@SLiubartseva](https://github.com/Sliubartseva/MEDSLIK_II_NECCTON/commits?author=Sliubartseva) | 8.2.3 | MEDSLIK-II code for NECCTON project |
 | [CanMETOP](https://zenodo.org/records/11214066) | | [Zhiyong Xie](https://www.hereon.de/institutes/coastal_environmental_chemistry/organic_environmental_chemistry/team/098611/index.php.de) | 8.2.5 | POPs’ Global atmospheric transport model |
 | [ECOSMO-MERCY](https://github.com/jbieser/HAMSOM-ECOSMO-MERCY) | | [@jbieser](https://github.com/jbieser) | 8.2.5 | Marine Mercury Cycling and Bioaccumulation module |
 | [Bfiat](https://github.com/EMODnet/Bfiat) | | [@karlines](https://github.com/karlines) | 8.2.6 | Bottom Fishing Impact Assessment Tools  |
-| [FABM](https://github.com/fabm-model/fabm) | | [@jornbr](https://github.com/jornbr) | 3.* | Framework for Aquatic Biogeochemical Models (FABM) |
-| [BAMHBI for FABM](https://github.com/Ezhen/Bamhbi_submodules) | | [@Ezhen](https://github.com/Ezhen) | 3.2 | FABM implementation of BAMHBI |
-| [PISCES for FABM](https://github.com/MoBelharet/fabm-pisces-4.2) | | [@MoBelharet](https://github.com/MoBelharet) | 3.2 | FABM implementation of PISCES |
-| [OGSTM](https://github.com/inogs/ogstm/tree/neccton_WP8)-[BFM-Hg](https://github.com/BFM-Community/BiogeochemicalFluxModel/tree/neccton_WP8) | neccton_WP8|[@ginRosati](https://github.com/ginRosati)|8.2| Marine biogeochemical mercury model|
-| [FEISTY](https://github.com/Kenhasteandersen/FEISTY) | | [@KenHasteAndersen](https://github.com/Kenhasteandersen) | 7.3 | Fortran and R implementation of the FEISTY fish community model |
-| [DIIM](https://github.com/carlossoto362/diim) | | [@CarlosSoto](https://github.com/carlossoto362) | 4.4.2 | Python tool for the estimation of marine optical constituents from Remote Sensing Reflectance |
-
-
 
 [^1]:indicate here the github login of the main contact for the code.
 
