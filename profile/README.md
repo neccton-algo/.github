@@ -50,6 +50,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [CanMETOP](https://zenodo.org/records/11214066) | | [Zhiyong Xie](https://www.hereon.de/institutes/coastal_environmental_chemistry/organic_environmental_chemistry/team/098611/index.php.de) | 8.2.5 | POPs’ Global atmospheric transport model |
 | [ECOSMO-MERCY](https://github.com/jbieser/HAMSOM-ECOSMO-MERCY) | | [@jbieser](https://github.com/jbieser) | 8.2.5 | Marine Mercury Cycling and Bioaccumulation module |
 | [Bfiat](https://github.com/EMODnet/Bfiat) | | [@karlines](https://github.com/karlines) | 8.2.6 | Bottom Fishing Impact Assessment Tools  |
+| [CC Indices](https://github.com/pmlmodelling/neccton_cc_indices) | | [@ledm](https://github.com/ledm) | 8.4 | Climate Change Stressor Indices |
 
 [^1]:indicate here the github login of the main contact for the code.
 
