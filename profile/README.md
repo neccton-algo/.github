@@ -41,6 +41,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [ECOSMO-MERCY](https://github.com/jbieser/POPCYCLE)) | | [@jbieser](https://github.com/jbieser) | 5.2.5 | Marine POP Cycling module  |
 | ***Work Package 6***|
 | [Benthic-Habitat-Models](https://github.com/damianobaldan/benthic_habitat_scripts) | | [@damianobaldan](https://github.com/damianobaldan) | 6.2.2 | Benthic habitat mapping markdown  |
+| [Benthic_Process_models](https://github.com/QMudde/Benthic_Process_models) | | [@QMudde](https://github.com/QMudde) | 6.2.4 | Process models for keystone benthic species  |
 | ***Work Package 7&8***|
 | [FEISTY](https://github.com/Kenhasteandersen/FEISTY) | | [@KenHasteAndersen](https://github.com/Kenhasteandersen) | 7.3 | Fortran and R implementation of the FEISTY fish community model |
 | [OGSTM](https://github.com/inogs/ogstm/tree/neccton_WP8)-[BFM-Hg](https://github.com/BFM-Community/BiogeochemicalFluxModel/tree/neccton_WP8) | neccton_WP8|[@ginRosati](https://github.com/ginRosati)|8.2| Marine biogeochemical mercury model|
