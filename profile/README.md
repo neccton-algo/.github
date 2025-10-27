@@ -23,6 +23,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [PISCES for FABM](https://github.com/MoBelharet/fabm-pisces-4.2) | | [@MoBelharet](https://github.com/MoBelharet) | 3.2 | FABM implementation of PISCES |
 | ***Work Package 4***|
 |    [.github](https://github.com/neccton-algo)         | | [@brajard](https://www.github.com/brajard)        | 4.1          | description of the github organization |
+|    [MuSt3Net](https://github.com/TeresaTonelli/MuSt3Net) | | [@TeresaTonelli](https://www.github.com/TeresaTonelli) |   4.2.1  | Multiple Steps 3D Convolutional Neural Network for data integration (or model data fusion)  |
 |    [DINCAE-benthic-traits](https://github.com/neccton-algo/DINCAE-benthic-traits)         | | [@Alexander-Barth](https://www.github.com/Alexander-Barth),[@AbelDechN](https://github.com/AbelDechN)        |   4.2.2 Interpolation          | data products of benthic traits  |
 |    [PNMI data paper](https://github.com/neccton-algo/PNMI_data_paper)         | | [@dlaetitia](https://github.com/dlaetitia)        |   4.3.1          | Spatial distribution of zooplankton diversity in the Parc Naturel Marin Iroise (PNMI) |
 | [ECOSMO](https://github.com/nansencenter/ECOSMO) | | [@caglartac](https://github.com/caglartac) | 4.3.1 and 5.2.1 | main ECOSMO and diel vertical migration codes |
