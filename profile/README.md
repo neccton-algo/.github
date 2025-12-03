@@ -31,6 +31,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [ECOSMO](https://github.com/nansencenter/ECOSMO) | | [@caglartac](https://github.com/caglartac) | 4.3.1 and 5.2.1 | main ECOSMO and diel vertical migration codes |
 | [DIIM](https://github.com/carlossoto362/diim) | | [@CarlosSoto](https://github.com/carlossoto362) | 4.4.2 | Python tool for the estimation of marine optical constituents from Remote Sensing Reflectance |
 |    [Neccton_Super_Resolution](https://github.com/neccton-algo/Neccton_Super_Resolution)         | | [@AntoineBernigaud](https://www.github.com/AntoineBernigaud)        | 4.4.3       | Super Resolution Data Assimilation |
+|    [Spectral Ocean Reflectance Data Assimilation](https://github.com/neccton-algo/SORDA)         | | [@verezem](https://github.com/verezem)        | 4.4.2       | Assimilation of new type of data |
 | ***Work Package 5***|
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [dvm](https://github.com/pmlmodelling/ersem-neccton/tree/dvm) | [@r-millington](https://www.github.com/r-millington) | 5.2.1 | DVM Model in ERSEM |
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [spm](https://github.com/pmlmodelling/ersem-neccton/tree/spm) | [@jimc101](https://www.github.com/jimc101) | 5.2.2 | SPM Model in ERSEM |
