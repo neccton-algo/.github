@@ -31,9 +31,9 @@ Requirements to add a repository to the organization https://github.com/neccton-
 |    [PNMI data paper](https://github.com/neccton-algo/PNMI_data_paper)         | | [@dlaetitia](https://github.com/dlaetitia)  |   4.3.1          | Spatial distribution of zooplankton diversity in the Parc Naturel Marin Iroise (PNMI) |
 |    [NECCTON_PNMI_ML](https://github.com/neccton-algo/NECCTON_PNMI_ML)   | | [@dlaetitia](https://github.com/dlaetitia)   |  4.3.1 | ML algorithms to study the spatial distribution of plankton diversity in the Parc Naturel Marin Iroise (PNMI) | 
 | [DVM](https://github.com/neccton-algo/DVM) || [@caglartac](https://github.com/caglartac) | 4.3.2 | Diel vertical migration parameter estimation using acoustics backscatter data |
-| [DIIM](https://github.com/carlossoto362/diim) | | [@CarlosSoto](https://github.com/carlossoto362) | 4.4.2 | Python tool for the estimation of marine optical constituents from Remote Sensing Reflectance |
 | [CODA](https://github.com/m-dml/coda) | | [@dgreenberg](https://github.com/dgreenberg) | 4.3.3 |  Combined Optimization of Dynamics and Assimilation with End-to-End Learning on Sparse Observations |
 |    [Neccton_Super_Resolution](https://github.com/neccton-algo/Neccton_Super_Resolution)         | | [@AntoineBernigaud](https://www.github.com/AntoineBernigaud)        | 4.4.3       | Super Resolution Data Assimilation |
+| [DIIM](https://github.com/carlossoto362/diim) | | [@CarlosSoto](https://github.com/carlossoto362) | 4.4.2 | Python tool for the estimation of marine optical constituents from Remote Sensing Reflectance |
 | [NEMOVAR Rrs DA](https://github.com/neccton-algo/Core-scripts-for-NEMOVAR-Rrs-DA) | | [@JOZSKA](https://github.com/JOZSKA) | 4.4.2 | Fortran scripts to be embedded within NEMOVAR-related balancing scheme to assimilate spectral Rrs |
 |    [SORDA](https://github.com/neccton-algo/SORDA)         | | [@verezem](https://github.com/verezem)        | 4.4.2       | Assimilation of new type of data, Spectral Ocean Reflectance Data Assimilation |
 | ***Work Package 5***|
