@@ -24,16 +24,19 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | ***Work Package 4***|
 |    [.github](https://github.com/neccton-algo)         | | [@brajard](https://www.github.com/brajard)        | 4.1          | description of the github organization |
 |    [MuSt3Net](https://github.com/TeresaTonelli/MuSt3Net) | | [@TeresaTonelli](https://www.github.com/TeresaTonelli) |   4.2.1  | Multiple Steps 3D Convolutional Neural Network for data integration (or model data fusion)  |
+| [EmuPML](https://github.com/neccton-algo/ML_carbon_pools/tree/main) || [@JOZSKA](https://github.com/JOZSKA) | 4.2.2 |  Predict carbon pools from observable variables for North-West European Shelf |
 |    [DINCAE-benthic-traits](https://github.com/neccton-algo/DINCAE-benthic-traits)         | | [@Alexander-Barth](https://www.github.com/Alexander-Barth),[@AbelDechN](https://github.com/AbelDechN)        |   4.2.2 Interpolation          | data products of benthic traits  |
 |    [Hg_SOM]( https://github.com/Marco-Puglia/Hg_SOM/tree/main )         | | [@Marco-Puglia](https://github.com/Marco-Puglia) |   4.2.2 Interpolation          | Self-Organizing Map for Mercury Distribution  |
-|    [PNMI data paper](https://github.com/neccton-algo/PNMI_data_paper)         | | [@dlaetitia](https://github.com/dlaetitia)        |   4.3.1          | Spatial distribution of zooplankton diversity in the Parc Naturel Marin Iroise (PNMI) |
-|    [NECCTON_PNMI_ML](https://github.com/neccton-algo/NECCTON_PNMI_ML)         | | [@dlaetitia](https://github.com/dlaetitia)        |   4.3.1          | ML algorithms to study the spatial distribution of plankton diversity in the Parc Naturel Marin Iroise (PNMI) |
-| [ECOSMO](https://github.com/nansencenter/ECOSMO) | | [@caglartac](https://github.com/caglartac) | 4.3.1 and 5.2.1 | main ECOSMO and diel vertical migration codes |
+| [NO3 Emulator](https://github.com/neccton-algo/NO3_Emulator_NECCTON ) || [@dsbanerjee90](https://github.com/dsbanerjee90) | 4.2.3 | ML-derived Surface Nitrate Bias Correction for the Northwest European Shelf |
+|    [PNMI data paper](https://github.com/neccton-algo/PNMI_data_paper)         | | [@dlaetitia](https://github.com/dlaetitia)  |   4.3.1          | Spatial distribution of zooplankton diversity in the Parc Naturel Marin Iroise (PNMI) |
+|    [NECCTON_PNMI_ML](https://github.com/neccton-algo/NECCTON_PNMI_ML)   | | [@dlaetitia](https://github.com/dlaetitia)   |  4.3.1 | ML algorithms to study the spatial distribution of plankton diversity in the Parc Naturel Marin Iroise (PNMI) | 
+| [DVM](https://github.com/neccton-algo/DVM) || [@caglartac](https://github.com/caglartac) | 4.3.2 | Diel vertical migration parameter estimation using acoustics backscatter data |
 | [DIIM](https://github.com/carlossoto362/diim) | | [@CarlosSoto](https://github.com/carlossoto362) | 4.4.2 | Python tool for the estimation of marine optical constituents from Remote Sensing Reflectance |
 |    [Neccton_Super_Resolution](https://github.com/neccton-algo/Neccton_Super_Resolution)         | | [@AntoineBernigaud](https://www.github.com/AntoineBernigaud)        | 4.4.3       | Super Resolution Data Assimilation |
 |    [SORDA](https://github.com/neccton-algo/SORDA)         | | [@verezem](https://github.com/verezem)        | 4.4.2       | Assimilation of new type of data, Spectral Ocean Reflectance Data Assimilation |
 | ***Work Package 5***|
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [dvm](https://github.com/pmlmodelling/ersem-neccton/tree/dvm) | [@r-millington](https://www.github.com/r-millington) | 5.2.1 | DVM Model in ERSEM |
+| [ECOSMO](https://github.com/nansencenter/ECOSMO) | | [@caglartac](https://github.com/caglartac) | 4.3.1 and 5.2.1 | main ECOSMO and diel vertical migration codes |
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [spm](https://github.com/pmlmodelling/ersem-neccton/tree/spm) | [@jimc101](https://www.github.com/jimc101) | 5.2.2 | SPM Model in ERSEM |
 | [SPMmodule](https://github.com/giubonino/SPMmodule) | | [@giubonino](https://github.com/giubonino) | 5.2.2 | SPM module |
 | [bamhbi-spm](https://github.com/mchoblet/SPM_wave_resuspension) | | [@mchoblet](https://github.com/mchoblet) | 5.2.2 | Bamhbi benthic model (Organic SPM) | 
@@ -42,7 +45,8 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [CDOM](https://github.com/pmlmodelling/ersem-neccton/tree/CDOM) | [@hpowley](https://www.github.com/hpowley) | 5.2.4 | CDOM additions for bio-optical model in ERSEM |
 | [fabm-spectral](https://github.com/pmlmodelling//fabm-spectral) | [rrs](https://github.com/pmlmodelling/fabm-spectral/tree/rrs) | [@hpowley](https://www.github.com/hpowley) | 5.2.4 | Bio-optical model used with ERSEM|
 | [bamhbi-rt](https://github.com/loic-mace/bamhbi-rt) | | [@loic-mace](https://github.com/loic-mace) | 5.2.4 | Bio-optics module for BAMHBI|
-| [ECOSMO-MERCY](https://github.com/jbieser/POPCYCLE)) | | [@jbieser](https://github.com/jbieser) | 5.2.5 | Marine POP Cycling module  |
+| [ECOSMO-MERCY](https://github.com/jbieser/POPCYCLE)E | | [@jbieser](https://github.com/jbieser) | 5.2.5 | Marine POP Cycling module  |
+
 | ***Work Package 6***|
 | [Benthic-Habitat-Models](https://github.com/damianobaldan/benthic_habitat_scripts) | | [@damianobaldan](https://github.com/damianobaldan) | 6.2.2 | Benthic habitat mapping markdown  |
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [benthic-fauna](https://github.com/pmlmodelling/ersem-neccton/tree/benthic-fauna) | [@r-millington](https://www.github.com/r-millington) | 5.2.1 | Benthic predators added to ERSEM for NECCTON|
