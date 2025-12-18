@@ -34,6 +34,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [DIIM](https://github.com/carlossoto362/diim) | | [@CarlosSoto](https://github.com/carlossoto362) | 4.4.2 | Python tool for the estimation of marine optical constituents from Remote Sensing Reflectance |
 | [CODA](https://github.com/m-dml/coda) | | [@dgreenberg](https://github.com/dgreenberg) | 4.3.3 |  Combined Optimization of Dynamics and Assimilation with End-to-End Learning on Sparse Observations |
 |    [Neccton_Super_Resolution](https://github.com/neccton-algo/Neccton_Super_Resolution)         | | [@AntoineBernigaud](https://www.github.com/AntoineBernigaud)        | 4.4.3       | Super Resolution Data Assimilation |
+| [NEMOVAR Rrs DA](https://github.com/neccton-algo/Core-scripts-for-NEMOVAR-Rrs-DA) | | [@JOZSKA](https://github.com/JOZSKA) | 4.4.2 | Fortran scripts to be embedded within NEMOVAR-related balancing scheme to assimilate spectral Rrs |
 |    [SORDA](https://github.com/neccton-algo/SORDA)         | | [@verezem](https://github.com/verezem)        | 4.4.2       | Assimilation of new type of data, Spectral Ocean Reflectance Data Assimilation |
 | ***Work Package 5***|
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [dvm](https://github.com/pmlmodelling/ersem-neccton/tree/dvm) | [@r-millington](https://www.github.com/r-millington) | 5.2.1 | DVM Model in ERSEM |
