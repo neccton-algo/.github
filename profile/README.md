@@ -23,7 +23,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [PISCES for FABM](https://github.com/MoBelharet/fabm-pisces-4.2) | | [@MoBelharet](https://github.com/MoBelharet) | 3.2 | FABM implementation of PISCES |
 | ***Work Package 4***|
 |    [.github](https://github.com/neccton-algo)         | | [@brajard](https://www.github.com/brajard)        | 4.1          | description of the github organization |
-|    [MuSt3Net](https://github.com/TeresaTonelli/MuSt3Net) | | [@TeresaTonelli](https://www.github.com/TeresaTonelli) |   4.2.1  | Multiple Steps 3D Convolutional Neural Network for data integration (or model data fusion)  |
+|    [MuSt3Net](https://github.com/TeresaTonelli/MuSt3Net/tree/v1.2.0) | | [@TeresaTonelli](https://www.github.com/TeresaTonelli) |   4.2.1  | Multiple Steps 3D Convolutional Neural Network for data integration (or model data fusion)  |
 | [EmuPML](https://github.com/neccton-algo/ML_carbon_pools/tree/main) || [@JOZSKA](https://github.com/JOZSKA) | 4.2.2 |  Predict carbon pools from observable variables for North-West European Shelf |
 |    [DINCAE-benthic-traits](https://github.com/neccton-algo/DINCAE-benthic-traits)         | | [@Alexander-Barth](https://www.github.com/Alexander-Barth),[@AbelDechN](https://github.com/AbelDechN)        |   4.2.2 Interpolation          | data products of benthic traits  |
 |    [Hg_SOM]( https://github.com/Marco-Puglia/Hg_SOM/tree/main )         | | [@Marco-Puglia](https://github.com/Marco-Puglia) |   4.2.2 Interpolation          | Self-Organizing Map for Mercury Distribution  |
