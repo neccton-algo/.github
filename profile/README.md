@@ -48,7 +48,6 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [fabm-spectral](https://github.com/pmlmodelling//fabm-spectral) | [rrs](https://github.com/pmlmodelling/fabm-spectral/tree/rrs) | [@hpowley](https://www.github.com/hpowley) | 5.2.4 | Bio-optical model used with ERSEM|
 | [bamhbi-rt](https://github.com/loic-mace/bamhbi-rt) | | [@loic-mace](https://github.com/loic-mace) | 5.2.4 | Bio-optics module for BAMHBI|
 | [ECOSMO-MERCY](https://github.com/jbieser/POPCYCLE)E | | [@jbieser](https://github.com/jbieser) | 5.2.5 | Marine POP Cycling module  |
-
 | ***Work Package 6***|
 | [Benthic-Habitat-Models](https://github.com/damianobaldan/benthic_habitat_scripts) | | [@damianobaldan](https://github.com/damianobaldan) | 6.2.2 | Benthic habitat mapping markdown  |
 | [ERSEM-NECCTON](https://github.com/pmlmodelling/ersem-neccton) | [benthic-fauna](https://github.com/pmlmodelling/ersem-neccton/tree/benthic-fauna) | [@r-millington](https://www.github.com/r-millington) | 5.2.1 | Benthic predators added to ERSEM for NECCTON|
